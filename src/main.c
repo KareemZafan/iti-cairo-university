@@ -6,6 +6,7 @@ int main(){
 int a = 10 ; 
 int b = 20; 
 
+printf("Hello World"); 
 printf("%d + %d = %d" ,a,b,a+b);  // 10 + 20 = 30
 
 return 0; 
